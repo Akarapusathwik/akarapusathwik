@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**Akarapusathwik/akarapusathwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Akarapu Sathwik**, a passionate Computer Science Engineering student currently pursuing my B.Tech at **Vardhaman College of Engineering (JNTUH)**. I'm a curious learner, problem solver, and a tech enthusiast who enjoys building real-world projects that make a difference. I love working on innovative ideas and continuously pushing my limits to grow as a developer and engineer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Skills
+
+### ✅ Currently Proficient In:
+- **Languages:** C, Java, Python, JavaScript, HTML + CSS
+- **Frameworks & Libraries:** ReactJS, Python Libraries
+- **Tools:** VS Code, Git, GitHub
+- **Databases & Cloud:** MySQL, MongoDB, AWS
+
+### 🚀 Planning to Learn:
+- Docker & Kubernetes
+- Next.js & TypeScript
+- DevOps tools (Jenkins, GitHub Actions)
+- Deep Learning (PyTorch, TensorFlow advanced modules)
+
+---
+
+## 💻 Projects I Worked On
+
+### 🌿 Plant Disease Detection using Transfer Learning
+- Built using EfficientNetB0 and TensorFlow on the PlantVillage dataset.
+- Developed a Flask web app for real-time image upload and prediction.
+- Technologies: Python, TensorFlow, Flask, HTML/CSS
+
+### 🌱 Crop Recommendation System
+- Chrome Extension-based recommendation system for crops based on soil and climate.
+- Preprocessed and scaled environmental data, trained ML models.
+- Technologies: Python, Scikit-learn
+
+### 🗣️ Basic Voice Assistant
+- Voice-enabled assistant using Python and NLP to handle user commands.
+- Platform-independent and requires no login.
+- Technologies: Python, NLP, SpeechRecognition
+
+---
+
+## 📜 Certifications
+
+- **Programming in Java** – SWAYAM, NPTEL (Jul–Oct 2024)
+- **Amazon Web Services** – NIELIT (Aug–Oct 2024)
+
+---
+
+## 🎯 Aspirations
+
+I aspire to become a **Cloud and AI Engineer**, combining scalable infrastructure with intelligent systems to build solutions that truly impact people's lives. I’m passionate about exploring the intersection of **machine learning, cloud technologies, and automation**, and I’m continuously preparing myself to thrive in that domain.
+
+---
+
+📫 **Get in Touch**  
+- Email: [akarapusathwik@gmail.com](mailto:akarapusathwik@gmail.com)  
+- GitHub: [Akarapusathwik](https://github.com/Akarapusathwik)  
+- LinkedIn: [Akarapu Sathwik](https://www.linkedin.com/in/akarapu-sathwik-8998332b6)
