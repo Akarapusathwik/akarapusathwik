@@ -13,7 +13,6 @@ I'm **Akarapu Sathwik**, a passionate Computer Science Engineering student curre
 - **Databases & Cloud:** MySQL, MongoDB, AWS
 
 ### 🚀 Planning to Learn:
-- Docker & Kubernetes
 - Next.js & TypeScript
 - DevOps tools (Jenkins, GitHub Actions)
 - Deep Learning (PyTorch, TensorFlow advanced modules)
