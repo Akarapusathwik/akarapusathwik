@@ -8,12 +8,12 @@ I'm **Akarapu Sathwik**, a passionate Computer Science Engineering student curre
 
 ### ✅ Currently Proficient In:
 - **Languages:** C, Java, Python, JavaScript, HTML + CSS
-- **Frameworks & Libraries:** ReactJS, Python Libraries
+- **Frameworks & Libraries:** Python Libraries
 - **Tools:** VS Code, Git, GitHub
 - **Databases & Cloud:** MySQL, MongoDB, AWS
 
 ### 🚀 Planning to Learn:
-- Next.js & TypeScript
+- ReactJS,Next.js & TypeScript
 - DevOps tools (Jenkins, GitHub Actions)
 - Deep Learning (PyTorch, TensorFlow advanced modules)
 
@@ -26,11 +26,6 @@ I'm **Akarapu Sathwik**, a passionate Computer Science Engineering student curre
 - Developed a Flask web app for real-time image upload and prediction.
 - Technologies: Python, TensorFlow, Flask, HTML/CSS
 
-### 🌱 Crop Recommendation System
-- Chrome Extension-based recommendation system for crops based on soil and climate.
-- Preprocessed and scaled environmental data, trained ML models.
-- Technologies: Python, Scikit-learn
-
 ### 🗣️ Basic Voice Assistant
 - Voice-enabled assistant using Python and NLP to handle user commands.
 - Platform-independent and requires no login.
@@ -42,6 +37,7 @@ I'm **Akarapu Sathwik**, a passionate Computer Science Engineering student curre
 
 - **Programming in Java** – SWAYAM, NPTEL (Jul–Oct 2024)
 - **Amazon Web Services** – NIELIT (Aug–Oct 2024)
+- **Salesforce Developer with Agentblazer Champion Program** -SALESFORCE(May- July 2025)
 
 ---
 
