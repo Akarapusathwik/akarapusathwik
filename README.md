@@ -21,7 +21,7 @@ I'm **Akarapu Sathwik**, a passionate Computer Science Engineering student curre
 
 ## 💻 Projects I Worked On
 
-### 🌿 Plant Disease Detection using Transfer Learning
+### 🌿 Leaf Disease Detection using Transfer Learning
 - Built using EfficientNetB0 and TensorFlow on the PlantVillage dataset.
 - Developed a Flask web app for real-time image upload and prediction.
 - Technologies: Python, TensorFlow, Flask, HTML/CSS
