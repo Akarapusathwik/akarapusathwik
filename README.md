@@ -37,7 +37,7 @@ I'm **Akarapu Sathwik**, a passionate Computer Science Engineering student curre
 
 - **Programming in Java** – SWAYAM, NPTEL (Jul–Oct 2024)
 - **Amazon Web Services** – NIELIT (Aug–Oct 2024)
-- **Salesforce Developer with Agentblazer Champion Program** -SALESFORCE (May- July 2025)
+- **Salesforce Developer with Agentblazer Champion Program** -SALESFORCE (May-July 2025)
 
 ---
 
